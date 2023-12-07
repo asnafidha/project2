@@ -1,1 +1,1 @@
-# project2
+eda of netflix imdb scores dataset
